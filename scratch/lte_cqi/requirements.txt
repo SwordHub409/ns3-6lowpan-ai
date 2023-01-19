@@ -1,0 +1,10 @@
+tensorflow
+tensorflow-estimator
+tensorboard
+numpy
+Keras
+Keras-Applications
+Keras-Preprocessing
+matplotlib
+psutil
+
